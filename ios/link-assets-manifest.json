@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/Assets/Font/Heebo-Black.ttf",
+      "sha1": "59378e909017ececec5a282a155f75ab21800c1b"
+    },
+    {
+      "path": "app/Assets/Font/Heebo-Bold.ttf",
+      "sha1": "e8ec0acbfd70d1eaef6606cc7bc7f6734c6256d3"
+    },
+    {
+      "path": "app/Assets/Font/Heebo-ExtraBold.ttf",
+      "sha1": "1cfb0d4389acae6091d8178c478d2c1634bd95a9"
+    },
+    {
+      "path": "app/Assets/Font/Heebo-Light.ttf",
+      "sha1": "d4675e1ac05632c27b3592b046e78f1277bb7bf8"
+    },
+    {
+      "path": "app/Assets/Font/Heebo-Medium.ttf",
+      "sha1": "25952468afae6ef95e3a57b53edd6e37a3905b79"
+    },
+    {
+      "path": "app/Assets/Font/Heebo-Regular.ttf",
+      "sha1": "991dbeb1326fd3cfa0f88fef94d49fabdacb4556"
+    },
+    {
+      "path": "app/Assets/Font/Heebo-Thin.ttf",
+      "sha1": "095b3c9d28dc5ab9416dc9f364fa5c73740f105f"
+    }
+  ]
+}
